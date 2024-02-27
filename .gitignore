@@ -69,6 +69,6 @@ node_modules
 .bundle
 
 # Build output
-/web
+/web/sites/*/files
 /deploy
 /config
