@@ -71,4 +71,3 @@ node_modules
 # Build output
 /web/sites/*/files
 /deploy
-/config
